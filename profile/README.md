@@ -1,6 +1,6 @@
 # Coinsnap
 
-**Bitcoin payment software for merchants**
+**Bitcoin and Stablecoin payment software for merchants**
 
 Coinsnap enables businesses to accept Bitcoin payments online, in e-commerce stores, on websites and at the point of sale.
 
@@ -25,11 +25,13 @@ Coinsnap provides payment solutions for a wide range of merchant use cases:
 - **Coinsnap Wallet** – Bitcoin wallet with integrated merchant and point-of-sale functionality
 - **APIs and integrations** – build custom Bitcoin payment workflows
 
-## Bitcoin and Lightning
+## Bitcoin, Lightning and Stablecoins
 
 Coinsnap supports Bitcoin payments via **Lightning** and **Bitcoin on-chain**.
 
 Coinsnap follows a **non-custodial / self-custody approach**. Coinsnap does not hold merchants' Bitcoin. Depending on the selected setup, payments can be received directly into the merchant's own Bitcoin wallet.
+
+Stablecoin settlement is already supported through the [Coinsnap Wallet](https://coinsnap.io/wallet/). Direct stablecoin payment acceptance by merchants is currently being integrated and is not yet available.
 
 ## For developers
 
@@ -62,7 +64,7 @@ Browse the repositories in this organization to find available integrations and 
 
 ## About Coinsnap
 
-Coinsnap is Bitcoin payment software for merchants and a brand of **Onlineshop24 d.o.o.**, a software company based in Serbia.
+Coinsnap is Bitcoin and Stablecoin payment software for merchants and a brand of **Onlineshop24 d.o.o., Serbia**. Onlineshop24 d.o.o. is a software development company.
 
 The current Coinsnap platform was publicly introduced in September 2023 and is designed for merchants worldwide who want to accept Bitcoin without operating complex payment infrastructure.
 
